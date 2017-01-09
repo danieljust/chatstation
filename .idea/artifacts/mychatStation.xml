@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mychatStation">
+    <output-path>$PROJECT_DIR$/out/artifacts/mychatStation</output-path>
+    <root id="archive" name="mychatStation.war" />
+  </artifact>
+</component>
